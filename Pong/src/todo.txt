@@ -1,0 +1,17 @@
+Set up a user settings framework to save and handle all user settings
+	eg.	Screen size
+		FPS
+		Keybindings
+		Colours
+		
+
+Add funky shaped paddles that bounce the ball in weird directions
+Maybe add funky shaped ball
+
+Scale objects with application size
+
+If two keys are pressed at the same time, make paddles non stationary
+
+Paddles do not move at the same rate. Maybe something to do with the game loop? Untie gameloop from graphics loop
+
+Move ball and paddle to controller to be sent from controller to gamestate
